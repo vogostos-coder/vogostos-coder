@@ -1,5 +1,6 @@
 # Verónica Ostos  
 **Data Analyst | Business & Risk Analytics | Python & SQL**
+Análisis de datos orientado a decisiones financieras y evaluación de riesgo.
 
 Soy Data Analyst con perfil senior–consultivo, enfocada en el análisis de datos aplicado a riesgo financiero, rentabilidad y toma de decisiones de negocio, con especialización en eCommerce y modelos digitales.
 
