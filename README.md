@@ -1,7 +1,7 @@
 # Verónica Ostos  
-**Data Analyst | Business & Risk Analytics**
+**Data Analyst | Business & Risk Analytics | Python & SQL**
 
-Soy Data Analyst con perfil senior–consultivo, enfocada en el análisis de datos aplicado a riesgo financiero, rentabilidad y toma de decisiones de negocio, con especialización en eCommerce.
+Soy Data Analyst con perfil senior–consultivo, enfocada en el análisis de datos aplicado a riesgo financiero, rentabilidad y toma de decisiones de negocio, con especialización en eCommerce y modelos digitales.
 
 Cuento con experiencia transformando información financiera, operativa y comercial en insights accionables para apoyar decisiones estratégicas, identificar riesgos y evaluar la sostenibilidad del crecimiento de modelos digitales.
 
@@ -27,10 +27,12 @@ Cuento con experiencia transformando información financiera, operativa y comerc
 ## 📂 Proyectos destacados
 
 ### 📌 Proyecto Sprint 7 – Análisis Exploratorio de Datos
-Análisis exploratorio de un dataset estructurado para identificar patrones, outliers y relaciones relevantes desde una perspectiva de negocio.
+Análisis exploratorio de un dataset estructurado para identificar patrones, outliers y relaciones relevantes desde una perspectiva analítica orientada a negocio y riesgo.
 
 **Herramientas:** Python, pandas, NumPy, Matplotlib, Seaborn  
 🔗 Repositorio: https://github.com/vogostos-coder/Proyecto-Sprint-7
+
+El proyecto se enfocó en la limpieza, exploración y visualización de datos para identificar patrones relevantes y riesgos potenciales que afectan decisiones operativas y financieras.
 
 _(Próximamente: Sprint 8 y proyectos adicionales)_
 
