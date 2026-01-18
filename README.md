@@ -27,8 +27,11 @@ Cuento con experiencia transformando información financiera, operativa y comerc
 
 ## 📂 Proyectos destacados
 
-### 📌 Proyecto Sprint 7 – Análisis Exploratorio de Datos
-Análisis exploratorio de un dataset estructurado para identificar patrones, outliers y relaciones relevantes desde una perspectiva analítica orientada a negocio y riesgo.
+### 📌 Proyecto Sprint 7 — Análisis Exploratorio de Datos (EDA)
+
+**Objetivo:** identificar patrones y riesgos relevantes para la toma de decisiones.  
+**Rol:** Data Analyst  
+
 
 **Herramientas:** Python, pandas, NumPy, Matplotlib, Seaborn  
 🔗 Repositorio: https://github.com/vogostos-coder/Proyecto-Sprint-7
@@ -36,6 +39,12 @@ Análisis exploratorio de un dataset estructurado para identificar patrones, out
 El proyecto se enfocó en la limpieza, exploración y visualización de datos para identificar patrones relevantes y riesgos potenciales que afectan decisiones operativas y financieras.
 
 _(Próximamente: Sprint 8 y proyectos adicionales)_
+
+---
+## 🧭 Cómo trabajo
+- Defino el problema desde la perspectiva del negocio.
+- Analizo los datos priorizando impacto y riesgo.
+- Comunico resultados de forma clara para toma de decisiones.
 
 ---
 
