@@ -38,7 +38,15 @@ Cuento con experiencia transformando información financiera, operativa y comerc
 
 El proyecto se enfocó en la limpieza, exploración y visualización de datos para identificar patrones relevantes y riesgos potenciales que afectan decisiones operativas y financieras.
 
-_(Próximamente: Sprint 8 y proyectos adicionales)_
+📌 Proyecto Sprint 8 — Análisis de datos para soporte de decisiones de negocio
+
+Objetivo: apoyar la toma de decisiones mediante análisis, exploración y consulta de datos estructurados.
+Rol: Analista de datos
+
+Herramientas: Python, SQL, pandas, NumPy, Jupyter Notebook  
+🔗 Repositorio: https://github.com/vogostos-codificador/Proyecto-Sprint-8
+
+El proyecto se enfocó en el uso de técnicas de exploración, transformación y consulta de datos para responder preguntas de negocio y generar conclusiones accionables orientadas a la toma de decisiones.
 
 ---
 ## 🧭 Cómo trabajo
