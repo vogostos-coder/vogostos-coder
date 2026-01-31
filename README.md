@@ -50,7 +50,7 @@ El proyecto se enfocó en el uso de técnicas de exploración, transformación y
 
 📌 Proyecto Sprint 10 — Machine Learning para modelos de regresión
 
-Objetivo: desarrollar y evaluar modelos de Machine Learning para apoyar la toma de decisiones mediante predicciones basadas en datos.
+Objetivo: diseñar, entrenar y evaluar modelos de Machine Learning para apoyar la toma de decisiones mediante predicciones basadas en datos.
 
 Rol: Analista de datos
 
