@@ -60,6 +60,19 @@ Herramientas: Python, pandas, NumPy, scikit-learn, Jupyter Notebook
 
 El proyecto se centró en la comparación de modelos de regresión (regresión lineal, árbol de decisiones y bosque aleatorio), evaluados mediante RMSE y conjuntos de entrenamiento, validación y prueba, priorizando la estabilidad, la capacidad de generalización y el criterio analítico en la selección del modelo final.
 
+📌 Proyecto Sprint 11 — Machine Learning para clasificación (Predicción de Churn)
+
+Objetivo: desarrollar y evaluar modelos de clasificación para predecir la probabilidad de abandono de clientes (churn), priorizando métricas robustas ante desequilibrio de clases.
+
+Rol: Analista de datos
+
+Herramientas: Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+
+🔗 Repositorio: (aquí pegas el link de GitHub cuando lo subas)
+
+El proyecto se enfocó en la preparación de datos, manejo de desbalance de clases y comparación de modelos de clasificación (Regresión Logística y Random Forest). Se evaluaron distintas estrategias como class_weight='balanced' y upsampling, optimizando el modelo con base en F1-score y AUC-ROC.
+
+El modelo final alcanzó un F1 ≈ 0.61 y AUC-ROC ≈ 0.86 en el conjunto de prueba, mostrando buena capacidad discriminativa y estabilidad entre validación y test.
 ---
 ## 🧭 Cómo trabajo
 - Defino el problema desde la perspectiva del negocio.
