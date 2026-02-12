@@ -68,7 +68,7 @@ Rol: Analista de datos
 
 Herramientas: Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
 
-🔗 Repositorio: (aquí pegas el link de GitHub cuando lo subas)
+🔗 Repositorio: https://github.com/vogostos-coder/churn-prediction-supervised-learning
 
 El proyecto se enfocó en la preparación de datos, manejo de desbalance de clases y comparación de modelos de clasificación (Regresión Logística y Random Forest). Se evaluaron distintas estrategias como class_weight='balanced' y upsampling, optimizando el modelo con base en F1-score y AUC-ROC.
 
