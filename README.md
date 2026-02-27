@@ -38,7 +38,7 @@ Cuento con experiencia transformando información financiera, operativa y comerc
 
 El proyecto se enfocó en la limpieza, exploración y visualización de datos para identificar patrones relevantes y riesgos potenciales que afectan decisiones operativas y financieras.
 
-📌 Proyecto Sprint 8 — Análisis de datos para soporte de decisiones de negocio
+#### 📌 Proyecto Sprint 8 — Análisis de datos para soporte de decisiones de negocio
 
 Objetivo: apoyar la toma de decisiones mediante análisis, exploración y consulta de datos estructurados.
 Rol: Analista de datos
@@ -48,7 +48,7 @@ Herramientas: Python, SQL, pandas, NumPy, Jupyter Notebook
 
 El proyecto se enfocó en el uso de técnicas de exploración, transformación y consulta de datos para responder preguntas de negocio y generar conclusiones accionables orientadas a la toma de decisiones.
 
-📌 Proyecto Sprint 10 — Machine Learning para modelos de regresión
+#### 📌 Proyecto Sprint 10 — Machine Learning para modelos de regresión
 
 Objetivo: diseñar, entrenar y evaluar modelos de Machine Learning para apoyar la toma de decisiones mediante predicciones basadas en datos.
 
@@ -60,7 +60,7 @@ Herramientas: Python, pandas, NumPy, scikit-learn, Jupyter Notebook
 
 El proyecto se centró en la comparación de modelos de regresión (regresión lineal, árbol de decisiones y bosque aleatorio), evaluados mediante RMSE y conjuntos de entrenamiento, validación y prueba, priorizando la estabilidad, la capacidad de generalización y el criterio analítico en la selección del modelo final.
 
-📌 Proyecto Sprint 11 — Machine Learning para clasificación (Predicción de Churn)
+#### 📌 Proyecto Sprint 11 — Machine Learning para clasificación (Predicción de Churn)
 
 Objetivo: desarrollar y evaluar modelos de clasificación para predecir la probabilidad de abandono de clientes (churn), priorizando métricas robustas ante desequilibrio de clases.
 
