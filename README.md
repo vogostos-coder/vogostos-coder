@@ -27,6 +27,18 @@ Transformo información financiera, operativa y comercial en modelos cuantitativ
 
 ---
 
+## 📌 Proyecto Destacado
+
+### Selección Óptima de Inversión Bajo Restricción de Riesgo
+
+Modelo cuantitativo para determinar la asignación óptima de capital bajo incertidumbre, utilizando regresión lineal y simulación bootstrap.
+
+• Evaluación de beneficio esperado vs. probabilidad de pérdida  
+• Simulación de 1000 escenarios para estimación de riesgo  
+• Decisión basada en restricción de pérdida < 2.5%  
+
+Resultado: Selección de alternativa con mayor valor esperado bajo restricción explícita de pérdida máxima tolerada.
+---
 ## 📂 Proyectos destacados
 
 ### 📌 Proyecto Sprint 7 — Análisis Exploratorio de Datos (EDA)
@@ -51,7 +63,9 @@ El proyecto se enfocó en la limpieza, exploración y visualización de datos pa
 
 El proyecto se enfocó en el uso de técnicas de exploración, transformación y consulta de datos para responder preguntas de negocio y generar conclusiones accionables orientadas a la toma de decisiones.
 
-#### 📌 Proyecto Sprint 10 — Machine Learning para modelos de regresión
+#### Optimización Predictiva de Variables Financieras mediante Modelos de Regresión
+
+(Proyecto Sprint 10 – TripleTen)
 
 **Objetivo:** diseñar, entrenar y evaluar modelos de Machine Learning para apoyar la toma de decisiones mediante predicciones basadas en datos.
 
@@ -73,7 +87,7 @@ El proyecto se centró en la comparación de modelos de regresión (regresión l
 
 El proyecto se enfocó en la preparación de datos, manejo de desbalance de clases y comparación de modelos de clasificación (Regresión Logística y Random Forest). Se evaluaron distintas estrategias como class_weight='balanced' y upsampling, optimizando el modelo con base en F1-score y AUC-ROC.
 
-El modelo final alcanzó un F1 ≈ 0.61 y AUC-ROC ≈ 0.86 en el conjunto de prueba, mostrando buena capacidad discriminativa y estabilidad entre validación y test.
+El modelo final alcanzó un F1 ≈ 0.61 y AUC-ROC ≈ 0.86 en el conjunto de prueba, demostrando adecuada capacidad de discriminación y estabilidad fuera de muestra.
 ---
 ## 🧭 Cómo trabajo
 - Defino el problema desde la perspectiva del negocio.
