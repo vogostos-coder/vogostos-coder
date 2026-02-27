@@ -2,7 +2,7 @@
 
 ## Especialista en Análisis Cuantitativo de Riesgo y Decisiones Financieras | Python & SQL
 
-Análisis de datos orientado a evaluación de riesgo, rentabilidad y toma de decisiones bajo incertidumbre.
+Análisis cuantitativo enfocado en evaluación de riesgo, optimización de rentabilidad y asignación eficiente de capital bajo incertidumbre.
 
 Profesional con enfoque senior-consultivo, especializada en modelado predictivo y análisis financiero aplicado a negocios digitales y eCommerce.
 
@@ -58,7 +58,7 @@ El modelo final alcanzó un F1 ≈ 0.61 y AUC-ROC ≈ 0.86 en el conjunto de pru
 
 (Proyecto Sprint 10 – TripleTen)
 
-**Objetivo:** diseñar, entrenar y evaluar modelos de Machine Learning para apoyar la toma de decisiones mediante predicciones basadas en datos.
+**Objetivo:** diseñar, entrenar y evaluar modelos de Machine Learningpara para estimar comportamiento futuro y evaluar escenarios financieros bajo distintos supuestos.
 
 **Rol:** Analista de datos
 
@@ -76,8 +76,7 @@ El proyecto se centró en la comparación de modelos de regresión (regresión l
 **Herramientas:** Python, SQL, pandas, NumPy, Jupyter Notebook  
 🔗 Repositorio: https://github.com/vogostos-codificador/Proyecto-Sprint-8
 
-El proyecto se enfocó en el uso de técnicas de exploración, transformación y consulta de datos para responder preguntas de negocio y generar conclusiones accionables orientadas a la toma de decisiones.
-
+El proyecto se enfocó en el uso de técnicas de exploración, transformación y consulta de datos para resolver problemáticas operativas mediante análisis estructurado y consultas SQL orientadas a eficiencia y rentabilidad.
 
 ### 📌 Proyecto Sprint 7 — Análisis Exploratorio de Datos (EDA)
 
