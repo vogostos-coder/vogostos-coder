@@ -41,6 +41,7 @@ El proyecto se enfocó en la limpieza, exploración y visualización de datos pa
 #### 📌 Proyecto Sprint 8 — Análisis de datos para soporte de decisiones de negocio
 
 **Objetivo:** apoyar la toma de decisiones mediante análisis, exploración y consulta de datos estructurados.
+
 **Rol:** Analista de datos
 
 **Herramientas:** Python, SQL, pandas, NumPy, Jupyter Notebook  
@@ -51,6 +52,7 @@ El proyecto se enfocó en el uso de técnicas de exploración, transformación y
 #### 📌 Proyecto Sprint 10 — Machine Learning para modelos de regresión
 
 **Objetivo:** diseñar, entrenar y evaluar modelos de Machine Learning para apoyar la toma de decisiones mediante predicciones basadas en datos.
+
 **Rol:** Analista de datos
 
 **Herramientas:** Python, pandas, NumPy, scikit-learn, Jupyter Notebook
@@ -61,6 +63,7 @@ El proyecto se centró en la comparación de modelos de regresión (regresión l
 #### 📌 Proyecto Sprint 11 — Machine Learning para clasificación (Predicción de Churn)
 
 **Objetivo:** desarrollar y evaluar modelos de clasificación para predecir la probabilidad de abandono de clientes (churn), priorizando métricas robustas ante desequilibrio de clases.
+
 **Rol:** Analista de datos
 
 **Herramientas:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
